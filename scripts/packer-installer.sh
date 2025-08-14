@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================================
 # Script Name: packer-installer.sh
-# Author: gnu.coffee
+# Author: gnu-coffee
 # Created: 2025-08-14
 # Last Modified: 2025-08-14
 # Description: Simple packer installer
