@@ -1,6 +1,6 @@
 #!/bin/bash
 # =============================================================================
-# Script Name: infra-tools-installer.sh
+# Script Name: machine-controller.sh
 # Author: gnu-coffee
 # Created: 2025-08-17
 # Description: Installer for Packer, Terraform, and Ansible on Ubuntu
