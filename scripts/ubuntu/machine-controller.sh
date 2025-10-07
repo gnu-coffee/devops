@@ -4,12 +4,12 @@
 # Author: gnu-coffee
 # Created: 2025-08-17
 # Description: Installer for Packer, Terraform, and Ansible on Ubuntu
-# License: MIT License
+# License: GNU General Public License
 # =============================================================================
 
 # --- Variables ---
 SCRIPT_DIR="$(pwd)"
-LOG_FILE="${SCRIPT_DIR}/infra_tools_install.log"
+LOG_FILE="${SCRIPT_DIR}/setup_machine_controller.log"
 
 # --- Color codes ---
 GREEN='\033[0;32m'

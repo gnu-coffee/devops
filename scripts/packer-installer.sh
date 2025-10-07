@@ -5,7 +5,7 @@
 # Created: 2025-08-14
 # Last Modified: 2025-08-14
 # Description: Simple packer installer
-# License: MIT License
+# License: GNU General Public License
 # =============================================================================
 
 # --- Variables ---
