@@ -5,7 +5,7 @@
 # Created: 2025-08-14
 # Last Modified: 2025-10-07
 # Description: Terraform installer for Debian / Ubuntu 24.04
-# License: MIT License
+# License: GNU General Public License
 # =============================================================================
 
 set -euo pipefail
